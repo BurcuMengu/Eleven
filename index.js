@@ -65,7 +65,7 @@ function fizzBuzz() {
 
 
 
-var numberOfBottles = 99
+var numberOfBottles = 99;
 while (numberOfBottles >= 0) {
     var bottleWorld = "bottle";
     if (numberOfBottles === 1) {
